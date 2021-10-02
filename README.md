@@ -3,11 +3,10 @@
 ### Getting Started
 
 ```
-cd iib-weather-app
 yarn install
 ```
 1. After the dependencies are installed, create a `.env.local` file inside the `iib-weather-app` folder.
-   * Then add `REACT_APP_GOOGLE_MAPS_API_KEY="AIzaSyBniFhD5gyPyOrEm212cVIAYVythPk2JcE"
+   * Then add `REACT_APP_GOOGLE_MAPS_API_KEY="YOUR_GOOGLE_API_KEY"
 ` this will enable the google map to work.
 2. Kindly install [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 ) and [preetier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
@@ -30,8 +29,6 @@ yarn start
  4. ES lint and preetier formatter implementation.
  5. Testing the app interaction and accessibility with users and screen readers.
 
-### Figma Link
-[Here you go](https://www.figma.com/file/pZDESo3oweZ7K2QUTZT5vx/iib-weather-app?node-id=0%3A1) (its incomplete)😥
 
 
 
