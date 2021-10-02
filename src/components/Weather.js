@@ -60,7 +60,7 @@ const Weather = () => {
 
 
 	return (
-		<div style={{background: 'teal'}}>
+		<div style={{background: 'salmon'}}>
 			<Autocomplete
 				id="Type city or capital names"
 				data-testid="element"
